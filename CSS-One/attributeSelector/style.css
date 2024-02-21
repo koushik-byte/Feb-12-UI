@@ -1,0 +1,17 @@
+a{
+    background-color: red;
+}
+
+#hari{
+    background-color: yellow;
+}
+
+
+a[target]{
+background-color: yellow;
+}
+
+
+*{
+    font-family:cursive
+}
