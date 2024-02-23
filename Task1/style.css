@@ -1,0 +1,32 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.place {
+    background-color: black;
+}
+
+ul {
+    float: left;
+}
+
+li {
+    align-items: center;
+    display: inline-block;
+}
+
+li a {
+    text-decoration: none;
+    color: darkblue;
+    margin-right: 22px;
+    font-size: 18px;
+}
+
+.horizontal1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
